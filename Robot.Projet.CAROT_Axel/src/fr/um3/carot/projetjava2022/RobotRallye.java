@@ -16,5 +16,5 @@ public class RobotRallye {
 	 * recule 1 (460)
 	 * les points pour chaque carte indiquent quand l'ordre 
 	 */
-/*coucou test jaina*/	
+/*coucou jaina*/	
 }
